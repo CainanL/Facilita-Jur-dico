@@ -1,0 +1,4 @@
+ALTER TABLE client
+ADD x NUMERIC;
+ALTER TABLE client
+ADD y NUMERIC;
